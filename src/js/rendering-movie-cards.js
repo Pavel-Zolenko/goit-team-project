@@ -25,3 +25,4 @@ getTrending().then(data => {
     });
   });
 });
+// end
